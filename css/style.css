@@ -1,7 +1,3 @@
-
-.flex-container{
-    display: flex;
-}
-.space-around{
-    justify-content: space-around;
+.height{
+    height: 800px;
 }
