@@ -8,3 +8,17 @@
     width: 300px;
     height: auto;
 }
+li{
+    list-style: none;
+    margin: 0 5px;
+    list
+}
+ul{
+    margin-left: 20px;
+}
+body{
+    overflow-x: hidden;
+}
+.pb-5 h6{
+   margin-left: -67px;
+}
