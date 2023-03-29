@@ -4,3 +4,7 @@
 .height-2{
     height: 200px;
 }
+.img img{
+    width: 300px;
+    height: auto;
+}
