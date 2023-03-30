@@ -1,0 +1,43 @@
+#jinx{
+    display: none !important;
+}
+@media screen and (max-width: 576px) { 
+    #hide{
+        display: none !important;
+    }
+    #jinx{
+        display: flex !important;
+    }
+    .img img{
+        width: 250px !important;
+        height: auto !important;
+    }
+    .star{
+        width: 100px !important;
+        
+    }
+    .ml{
+        margin-left: 12px !important;
+    }
+    .font{
+        font-size: 1rem !important;
+    }
+    .rounded-4{
+        margin-left: 8px !important;
+    }
+    .row{
+        flex-direction: column !important;
+    }
+    .align_center{
+        align-items: center;
+    }
+    .foot{
+        margin-top: 20px !important;
+    }
+    h3{
+        font-size: 1rem !important;
+    }
+    ul{
+        margin-left: -56px !important;
+    }
+ }
